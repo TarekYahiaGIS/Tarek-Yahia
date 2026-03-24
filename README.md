@@ -38,7 +38,6 @@ This portfolio is built using:
 
 * 📱 **Fully Responsive Design**
 * 🌗 **Light / Dark Mode Toggle**
-* 🌐 **Multi-language Support (EN / AR)**
 * 💾 **Progressive Web App (PWA)**
 * 📈 **Google Analytics Integration**
 * 🧭 **Interactive Particle Background**
